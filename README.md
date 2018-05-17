@@ -5,6 +5,8 @@ Endereço para o Vídeo: https://www.youtube.com/watch?v=S7JRnwgpzR0
 
 Análise da Taxa de Aprovação das Disciplinas do IMD - UFRN
 
+A idéia inicial era de analisar as taxas de aprovações das disciplinas do IMD, para saber quais tinham melhor aprovação, e quais acabavam reprovando mais. Analisar também se taxas de aprovação baixas ocorreriam mais em disciplinas obrigatórias ou optativas, ou ainda, checar qual o foco das disciplinas. Tentando encontrar semelhanças entre disciplinas com mais taxa de aprovação, e semelhanças em disciplinas com menor taxa de aprovação. (Ex. Será que disciplinas com foco matemático tem maior reprovação? Etc)
+
 Bibliotecas: pandas, matplotlib.pyplot, seaborn e numpy
 
 Inicialmente buscamos dados referentes às turmas, notas, disciplinas e discentes do semestre 2017.2 no banco de dados que nos é disponibilizado pela UFRN.
